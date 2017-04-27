@@ -1,0 +1,61 @@
+
+
+article, aside, figure, footer, header, hgroup, menu, nav, section{
+	display:block;
+}
+body
+{
+    background-color:#CCCCCC;
+}
+#container
+{
+    background-color:white;
+    width:960px;
+    margin-left:200px;
+	margin-right:auto;
+	border-radius:10px;
+	
+}
+header{
+	text-aligned:center;
+    width:960px;
+	font-size: 30px;
+	background-color:#222;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	color:white;
+}
+footer{
+    width:960px;
+	height:30px;
+	font-size: 35px;
+	text-aligned:center;
+	background-color:#222;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+	clear:both;  
+}
+img
+{
+	width:200px;
+	height:120px;
+}
+
+#content 
+{
+	width:960px;
+	margin-right:auto;
+	margin-left:auto;		
+}
+#content ul
+{
+    list-style-type:none;	
+}
+#content li
+{
+    float:left;
+	width:175px;
+	display:block;
+    margin-right:50px;
+	margin-bottom:10px;	
+}
