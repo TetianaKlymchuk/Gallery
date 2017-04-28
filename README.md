@@ -1,5 +1,5 @@
 # Gallery
-## This is simple and effective HTML photo gallery using CSS and a little JavaScript
+## This is simple and effective HTML photo gallery using CSS and JavaScript
 I use FancyBox 3, jQuery lightbox script for displaying images, videos etc, for create all features appear on the screen. For this reason it is needed to add latest jQuery and fancyBox files. 
 
 Once you've been trying this plugin, you'll forget about all other alternative plugins.
@@ -11,7 +11,7 @@ Very cool thing that will allow you to open:
 * Modal windows with their contents
 on your website.
 
-Here you can find an example:
+Here you can find an screenshots:
 ![Screenshot](https://cloud.githubusercontent.com/assets/28005338/25487847/179d2ee0-2b6e-11e7-8378-daf7ab6aa54e.png)
 
 ![Screenshot](https://cloud.githubusercontent.com/assets/28005338/25487869/22d8cdaa-2b6e-11e7-9db6-bf71cd69aad3.png)
